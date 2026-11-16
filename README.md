@@ -2,6 +2,10 @@
 
 通过 AUMID 启动 Microsoft Store 版 Codex（ChatGPT 桌面端），可以附加启动参数、开启 CDP 调试端口、注入脚本。
 
+## 下载
+
+可以在 [Action](https://github.com/muedsa/codex-plus/actions/workflows/build.yml) 下载最新构建。
+
 ## 流程
 
 1. 读取配置（环境变量）。
